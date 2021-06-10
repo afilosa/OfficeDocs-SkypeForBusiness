@@ -27,6 +27,21 @@ Learn more about [Career Coach](https://aka.ms/career-coach).
 > [!NOTE]
 > Use the best practices and helpful tips in this guide to enable the capabilities of Career Coach for students, faculty, and staff. See the [Quick planning guide](https://support.microsoft.com/office/c5d0b934-bfcf-4fe7-8a85-ba7bbb1b6ad4) article.
 
+## Supported languages
+Career Coach is localized in the following languages:
+  
+  - Chinese (Simplified, Mainland China)
+  - Chinese (Traditional, Taiwan)
+  - English (US)
+  - English (UK)
+  - French (Canada)
+  - French (France)
+  - German (Deutschland)
+  - Japanese (Japan)
+  - Portugal (Brazil)
+  - Spanish (Spain)
+  - Spanish (Mexico)
+
 ## Review the requirements
 
 To enable Career Coach for your educational institution, review what you need to get the app up and running.
